@@ -1,5 +1,8 @@
 # Setup of project
 
+-Login
+-Sign In/Up Form
+
 # Added tailwind
 
 # Features
