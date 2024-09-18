@@ -2,6 +2,17 @@
 
 -Login
 -Sign In/Up Form
+-Routing
+-Form Validation
+-useRef Hook - where binding of data is not needed
+-Firebase - npm install
+-Firebase cli - npm install -g firebase-tools.
+-firebase login
+-firebase init
+-firebase deploy
+-Create Sign UP/In
+-Implemented using Firebase Authentication
+-Created Redux store with userSlice
 
 # Added tailwind
 
